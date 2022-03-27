@@ -1,0 +1,4 @@
+[submodule "dw-house/dw-house-deploy"]
+	path = dw-house/dw-house-deploy
+	url = https://github.com/swiernia/dw-house-deploy.git
+	branch = main
