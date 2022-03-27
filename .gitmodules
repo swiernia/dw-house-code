@@ -2,3 +2,7 @@
 	path = dw-house/dw-house-deploy
 	url = https://github.com/swiernia/dw-house-deploy.git
 	branch = main
+[submodule "dw-house/public"]
+	path = dw-house/public
+	url = https://github.com/swiernia/dw-house-deploy.git
+	branch = main
